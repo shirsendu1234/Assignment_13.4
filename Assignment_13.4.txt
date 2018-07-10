@@ -1,0 +1,8 @@
+1)select * from customer_list where country='Canada' order by name;
+
+
+2)select count(ID) from customer_list where country='Brazil';
+
+28
+
+3)
